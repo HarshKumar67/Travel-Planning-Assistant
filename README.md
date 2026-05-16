@@ -252,7 +252,7 @@ Estimated Budget:
 
 # 🌐 Deployment
 
-Deployment link will be added after hosting the project.
+[Deployment link of the project.](https://travel-planning-assistant-gnlpsscravcddm6uy98opj.streamlit.app/)
 
 ---
 
